@@ -147,10 +147,6 @@ footer i{
     color: var(--zelena);
 }
 
-footer:hover{
-    color: var(--zuta);
-}
-
 footer h4{
     font-size: 1.5rem;
     padding-bottom: 30px;
